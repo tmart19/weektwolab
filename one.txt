@@ -1,3 +1,4 @@
 The book is in front of the table.
-Today is Wednesday.
+Hello World
 He found rain fascinating yet unpleasant.
+BLD 070
